@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "data": {
+    "id": 131,
+    "candidate": {
+      "name": "xxx",
+      "email": "xxx@gmail.com",
+      "photoUrl": "xxx.png"
+    },
+    "certification": {
+      "abbreviatedType": "DCML",
+      "normalType": "DEV_CERTIFICATION_MACHINE_LEARNING",
+      "submittedAt": "2025-08-02 07:49:52",
+      "status": "FINISHED",
+      "projectType": "dcml_package_1",
+      "interviewQuestionSets": 1,
+      "examScore": 94.33,
+      "autoGraderProjectScore": 100,
+      "downloadProjectUrl": "xxx",
+      "isReviewedByMe": false,
+      "isAlreadyReviewedByMe": false,
+      "assess": {
+        "project": false,
+        "interviews": true
+      }
+    },
+    "reviewChecklists": {
+      "project": [],
+      "interviews": [
+        {
+          "positionId": 1,
+          "question": "Can you share any specific challenges you faced while working on certification and how you overcame them?",
+          "isVideoExist": true,
+          "recordedVideoUrl": "https://drive.google.com/file/d/1B8vb9lYz9LCCWpVdyglbDOgg-_ncndw8/view?usp=drive_link"
+        },
+        {
+          "positionId": 2,
+          "question": "Can you describe your experience with transfer learning in TensorFlow? How did it benefit your projects?",
+          "isVideoExist": true,
+          "recordedVideoUrl": "https://drive.google.com/file/d/1VmUhGiGpSReiQlGabzqkehfPy8cKyZzR/view?usp=drive_link"
+        },
+        {
+          "positionId": 3,
+          "question": "Describe a complex TensorFlow model you have built and the steps you took to ensure its accuracy and efficiency.",
+          "isVideoExist": true,
+          "recordedVideoUrl": "https://drive.google.com/file/d/1b0R1W-FnZyziW4a4EUComRXkQhJF5gNV/view?usp=drive_link"
+        },
+        {
+          "positionId": 4,
+          "question": "Explain how to implement dropout in a TensorFlow model and the effect it has on training.",
+          "isVideoExist": true,
+          "recordedVideoUrl": "https://drive.google.com/file/d/1iUwQxAeJpB8oB7HjyyMpfq-c_lBIfyc4/view?usp=drive_link"
+        },
+        {
+          "positionId": 5,
+          "question": "Describe the process of building a convolutional neural network (CNN) using TensorFlow for image classification.",
+          "isVideoExist": true,
+          "recordedVideoUrl": "https://drive.google.com/file/d/1JE34UAK-NQMHyx4XPo-cmTBbZZ_tYj85/view?usp=drive_link"
+        }
+      ]
+    },
+    "pastReviews": [
+      {
+        "assessorProfile": {
+          "id": 47,
+          "name": "xxx",
+          "photoUrl": "xxx"
+        },
+        "decision": "PASSED",
+        "reviewedAt": "2025-08-06 21:19:05",
+        "scoresOverview": {
+          "project": 100,
+          "interview": 80,
+          "total": 94.3
+        },
+        "reviewChecklistResult": {
+          "project": [],
+          "interviews": {
+            "minScore": 0,
+            "maxScore": 4,
+            "scores": [
+              {
+                "id": 1,
+                "score": 3
+              },
+              {
+                "id": 2,
+                "score": 3
+              },
+              {
+                "id": 3,
+                "score": 4
+              },
+              {
+                "id": 4,
+                "score": 3
+              },
+              {
+                "id": 5,
+                "score": 3
+              }
+            ]
+          }
+        },
+        "notes": "lancar tidak mencurigakan"
+      }
+    ]
+  }
+}
